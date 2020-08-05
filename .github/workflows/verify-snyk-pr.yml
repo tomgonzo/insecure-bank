@@ -6,7 +6,7 @@ name: Build and Test to Verify Snyk PR
 on:
   push:
     branches:
-      - 'snyk-upgrade-**'
+      - 'snyk-**'
 
 jobs:
   build:
