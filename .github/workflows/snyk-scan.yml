@@ -1,5 +1,5 @@
 name: Scan on Push and Pull with Snyk
-on: [push, pull_request]
+on: [pull_request]
 jobs:
   security:
     runs-on: ubuntu-latest
