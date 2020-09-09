@@ -124,7 +124,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>4.3.2.Final</version>
+			<version>6.0.19.Final</version>
 		</dependency>
 		<!-- Database -->
 		<dependency>
@@ -135,7 +135,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>9.2-1004-jdbc4</version>
+			<version>42.2.13</version>
 		</dependency>
 		<!-- HSQLDB -->
 		<dependency>
