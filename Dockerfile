@@ -1,7 +1,5 @@
 FROM tomcat:jre8
 
-MAINTAINER davemeurer@github
-
 ENV CATALINA_HOME /usr/local/tomcat
 ENV PATH $CATALINA_HOME/bin:$PATH
 
